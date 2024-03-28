@@ -25,7 +25,7 @@ struct ContentView: View {
 //        }
 //
 //        .padding()
-        ZStack{
+        HStack{
             Rectangle()
                 .foregroundColor(.blue)
                 .frame(width: 200, height: 200)
