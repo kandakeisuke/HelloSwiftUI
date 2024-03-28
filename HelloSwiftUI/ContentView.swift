@@ -78,9 +78,9 @@ struct ContentView: View {
 //                }
 //            }
 //        }
-//        Button("ボタン") {
-//            print("ボタンが押されたよ")
-//        }
+        Button("ボタン") {
+            print("ボタンが押されたよ")
+        }
 //        .padding()
         
 //        Image("kids")
